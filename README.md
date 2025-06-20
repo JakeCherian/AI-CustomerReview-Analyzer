@@ -18,12 +18,12 @@ A simple yet powerful **AI-powered Web Application** designed to analyze custome
 
 ## 🎥 Live Demo
 
+## 🎥 Live Demo
+
 <p align="center">
-  <video width="400" controls>
-    <source src="./Review Analyser Video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="./Review Analyser Video.gif" width="400"/>
 </p>
+
 
 ---
 
