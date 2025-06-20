@@ -19,7 +19,7 @@ A simple yet powerful **AI-powered Web Application** designed to analyze custome
 ## 🎥 Live Demo
 
 <p align="center">
-  <img src="./Review Analyser Video.gif" width="400"/>
+  <img src="./Review Analyser Video.gif" width="1200"/>
 </p>
 
 
